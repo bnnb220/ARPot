@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DoubleLeaf_3_1" size="0.025000 0.025000" />
+    <ImageTarget name="DoubleLeaf_2_1" size="0.025000 0.025000" />
+    <ImageTarget name="DoubleLeaf_1_1" size="0.025000 0.025000" />
+    <ImageTarget name="Leaf_3" size="0.025000 0.025000" />
+    <ImageTarget name="Leaf_2" size="0.025000 0.025000" />
+    <ImageTarget name="Leaf_1" size="0.025000 0.025000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,145 @@
+[33mcommit 608d8f1ea6ec640462626f135856915480958958[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d7f4e3f 3d6523d
+Author: Right way <pjd0149@gmail.com>
+Date:   Wed May 12 18:05:57 2021 +0900
+
+    BTConnection & Singleton
+
+[33mcommit d7f4e3ffe1dc077ed76746e5f3f8afbfcd3791d3[m
+Author: Right way <pjd0149@gmail.com>
+Date:   Wed May 12 18:03:28 2021 +0900
+
+    BTConnection & Singleton
+
+[33mcommit 3d6523d769b09058dc24da9e8f5650aa315ae12b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Wed May 12 17:49:13 2021 +0900
+
+    ARScene Anim Update
+
+[33mcommit f80afc86beb58fc7379906c1c82cd45eb346c27b[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Wed May 12 16:39:44 2021 +0900
+
+    Update ARScene
+
+[33mcommit a4d2b1a4726b863949f3d887c6e73b4ebae6b2a8[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Wed May 12 16:23:30 2021 +0900
+
+    ARScene Update
+
+[33mcommit 67373236dd19c181a3b387632e234b99c4b995fa[m
+Author: Right way <pjd0149@gmail.com>
+Date:   Tue May 11 18:57:57 2021 +0900
+
+    0511Finish
+
+[33mcommit ab5e3d278e5e4437c83860f6bdb0e6b76c0e8dd4[m
+Merge: 8f3948f da5921a
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Tue May 11 18:38:48 2021 +0900
+
+    a
+
+[33mcommit da5921ab9a45606f84341803a8cfddfbfee94728[m
+Author: Right way <pjd0149@gmail.com>
+Date:   Tue May 11 18:26:01 2021 +0900
+
+    BT & UIScene
+
+[33mcommit 8f3948f09dc8350a822e86dd397ddcc3b4034a97[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Tue May 11 18:25:48 2021 +0900
+
+    ArScene Update
+
+[33mcommit bfd9d7ab8c5edaef65915d4a9a634e9b80a8a5fe[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Tue May 11 17:50:15 2021 +0900
+
+    ARScene Update
+
+[33mcommit f96cc49c557077c4d51d5f9d3050645c712a3261[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Tue May 11 17:08:25 2021 +0900
+
+    ARScene Update
+
+[33mcommit c7ee46cb5d4187e022ad99aede3a6d75c1020b45[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Tue May 11 09:10:18 2021 +0900
+
+    ARScene: Test Button added
+
+[33mcommit ea1e43de591960b34e57775912e996a7c26475a6[m
+Author: Right way <pjd0149@gmail.com>
+Date:   Mon May 10 17:52:47 2021 +0900
+
+    Editor edit
+
+[33mcommit fc4e09b766166337f1d664c4eb4cd3c608ccc50e[m
+Author: Right way <pjd0149@gmail.com>
+Date:   Mon May 10 16:08:22 2021 +0900
+
+    edit UI Scene_2
+
+[33mcommit 3eb4d3339d55787c2c763eff048dd61e56b4ff5c[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 15:38:55 2021 +0900
+
+    edit UI Scene
+
+[33mcommit 5de8552fd0f654ae2c65de770d55a12a15032bd9[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 15:09:54 2021 +0900
+
+    vuforia and mark add
+
+[33mcommit bf9b4067b654355cf687bd8594a5c8219bab757c[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 13:03:50 2021 +0900
+
+    add Shipping image
+
+[33mcommit 65b8d618626c4a49f81f849fa1caeda47c5d2f68[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 11:42:35 2021 +0900
+
+    Add ShipGroup
+
+[33mcommit 750c657cf6f15d876f9a72d28fd31e8e029ed93c[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 11:07:07 2021 +0900
+
+    Add UIScene and ARScene
+
+[33mcommit a4282b48dc1bdd72006f0777c8c9bd1446129661[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 10:59:12 2021 +0900
+
+    Add Asset
+
+[33mcommit 507ef453d04df01384d730f1bdcad22d6fbdb899[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 10:38:29 2021 +0900
+
+    add UI
+
+[33mcommit f0b62a1eacb919a9e60a3d8fb6ab75912850480a[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Mon May 10 09:31:57 2021 +0900
+
+    Add Purchasing Scene
+
+[33mcommit 633f3d3ff89ec7aaf48eb70dd4e926163da225e3[m
+Author: Yongjung Shin <syj4209@naver.com>
+Date:   Fri May 7 15:40:47 2021 +0900
+
+    First commit
+
+[33mcommit 4ae5a42f9c1cf15dc3b51ca14436d988f37a7234[m
+Author: rightway_P <pjd0149@gmail.com>
+Date:   Fri May 7 15:22:34 2021 +0900
+
+    Initial commit
